@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this simulator or the accompanying education brief, please cite it."
+title: "Teaching and Learning with a Quantum Network Simulator"
+type: software
+version: "0.1.0"
+date-released: "2026-02-25"
+authors:
+  - family-names: "Kiefer"
+    given-names: "Boris"
+    affiliation: "New Mexico State University"
+    email: "bkiefer@nmsu.edu"
+    orcid: "https://orcid.org/0000-0003-0242-3165"
+repository-code: "https://github.com/boriskiefer/simulator-quantum-network"
+url: "https://github.com/boriskiefer/simulator-quantum-network"
+license: "MIT"
+keywords:
+  - "quantum networking"
+  - "entanglement swapping"
+  - "network planning"
+  - "infrastructure modeling"
+  - "education"
+  - "workforce development"
+  - "policy"
+  - "Python"
+references:
+  - type: document
+    title: "Teaching and Learning with a Quantum Network Simulator"
+    authors:
+      - family-names: "Kiefer"
+        given-names: "Boris"
+    year: 2026
+    url: "https://github.com/boriskiefer/simulator-quantum-network/qnet_edu_brief.pdf"
