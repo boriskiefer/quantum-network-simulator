@@ -4,6 +4,8 @@ Interactive Jupyter notebook that turns a transparent, algebra-based model of qu
 
 **Version:** v0.1.0  
 **Date:** 2026-02-25
+**Version:** v0.2.0  
+**Date:** 2026-02-26
 
 ---
 
