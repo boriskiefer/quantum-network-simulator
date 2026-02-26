@@ -2,8 +2,8 @@
 
 Interactive Jupyter notebook that turns a transparent, algebra-based model of quantum networking into an exploration and planning tool. Users vary physical and operational parameters (loss, timing, memory coherence, detection, etc.) and see how they affect feasible segment length, entanglement rate, fidelity constraints, and infrastructure implications.
 
-**Version:** v0.1.0 | Date: 2026-02-25 <br>
-**Version:** v0.2.0 | Date: 2026-02-26
+**Version:** v1.0 | Date: 2026-02-25 <br>
+**Version:** v2.0 | Date: 2026-02-26
 
 ---
 
@@ -20,7 +20,8 @@ Interactive Jupyter notebook that turns a transparent, algebra-based model of qu
 
 ## Package contents
 
-- `simulator-quantum-network.ipynb`
+- `V1.0: simulator-quantum-network.ipynb`
+- `V2.0: simulator-quantum-network_v2.0.ipyng`
 - `requirements.txt`
 - `README.md`
 
@@ -29,7 +30,7 @@ Interactive Jupyter notebook that turns a transparent, algebra-based model of qu
 ## Run (Jupyter-only)
 
 1. Start JupyterLab.
-2. Open `simulator-quantum-network.ipynb`.
+2. Open downloaded simulator file.
 3. In the first code cell, run:
 
     %pip install -r requirements.txt
