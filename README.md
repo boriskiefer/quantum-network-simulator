@@ -2,8 +2,8 @@
 
 Interactive Jupyter notebook that turns a transparent, algebra-based model of quantum networking into an exploration and planning tool. Users vary physical and operational parameters (loss, timing, memory coherence, detection, etc.) and see how they affect feasible segment length, entanglement rate, fidelity constraints, and infrastructure implications.
 
-**Version:** v0.1.0 | Date:** 2026-02-25 \\
-**Version:** v0.2.0 | Date:** 2026-02-26
+**Version:** v0.1.0 | Date: 2026-02-25 <br>
+**Version:** v0.2.0 | Date: 2026-02-26
 
 ---
 
