@@ -70,3 +70,14 @@ Pedagogical activities, deliverables, and assessment rubrics are provided in the
 This simulator is an independent educational/planning tool. All variable names and labels are chosen by the author for clarity
 and do not represent any organization’s official terminology, specifications, commitments, or endorsements. Any cost figures are
 illustrative placeholders unless explicitly cited.
+
+---
+
+## Acknowledgement
+
+This material was developed and/or adapted with support from the National
+Science Foundation through the QCAP-NQVL-Pilot and QCAP-NQVL-Design efforts
+under NSF Award Nos. OSI-2410813 and OSI-2531569.
+Any opinions, findings, conclusions, or recommendations expressed in this
+material are those of the author(s) and do not necessarily reflect the views
+of the National Science Foundation.
